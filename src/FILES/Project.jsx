@@ -5,13 +5,13 @@ const projects = [
     title: "COLOUR GENRATOR",
     description:"A COLOUR GENRATOR BUILD USING HTML ,CSS, AND JAVASCRIPT",
     link: "https://github.com/ankuuraj78com-svg/CODE.COLLECTION/blob/main/INDEX.HTML",
-    image : "https://cdn.sanity.io/images/599r6htc/regionalized/6e108c6e21c875f750b484fd90e2e26e6e597297-1320x743.png?w=1320&h=743&q=75&fit=max&auto=format" // replace with your image
+    image : "https://cdn.sanity.io/images/599r6htc/regionalized/6e108c6e21c875f750b484fd90e2e26e6e597297-1320x743.png?w=1320&h=743&q=75&fit=max&auto=format"
   },
   {
     title: "DIGITAL CLOCK",
     description: "DIGITAL CLOCK USING HTML CSS AND JAVASCRIPT.",
     link: "https://github.com/ankuuraj78com-svg/CODE.COLLECTION/blob/main/index.html",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc2hEtT5j2i9obDzJG4DMqrcuFxTImj1ogEw&s" // replace with your image
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc2hEtT5j2i9obDzJG4DMqrcuFxTImj1ogEw&s" 
   },
   {
     title: "",
