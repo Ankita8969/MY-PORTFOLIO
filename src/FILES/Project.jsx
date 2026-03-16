@@ -4,7 +4,7 @@ const projects = [
   {
     title: "COLOUR GENRATOR",
     description:"A COLOUR GENRATOR BUILD USING HTML ,CSS, AND JAVASCRIPT",
-    link: "https://github.com/ankuuraj78com-svg/CODE.COLLECTION/blob/main/INDEX.HTML",
+    link: "https://github.com/Ankita8969/CODE.COLLECTION/blob/main/INDEX.HTML",
     image : "https://cdn.sanity.io/images/599r6htc/regionalized/6e108c6e21c875f750b484fd90e2e26e6e597297-1320x743.png?w=1320&h=743&q=75&fit=max&auto=format"
   },
   {
